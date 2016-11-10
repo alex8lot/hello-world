@@ -1,2 +1,3 @@
 # hello-world
-Test Repository to see how to work this crap.
+
+Hello. This is just a test. Ignore this.
